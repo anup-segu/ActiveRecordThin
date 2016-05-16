@@ -6,7 +6,7 @@ This project relies on the use of the 'activesupport' and 'sqlite3' ruby gems.
 
 ## How to Use
 
-You can use the SQL Object class to inherit properties from for whatever project you are working on. The class that inherits it will have the ability to access and update a SQL database.
+You can use the SQL Object class to inherit properties for whatever project you are working on. The class that inherits it will have the ability to access and update a SQL database table.
 
 Download the lib folder and require `SQLObject` as below:
 
