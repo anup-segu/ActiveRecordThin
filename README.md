@@ -1,6 +1,6 @@
-# Active Record Thin
+# SQL Red
 
-An ORM inspired by the functionality of Active Record Lite that lets users create ruby objects representing entries in SQL tables. This allows them the ability to update and create new entries for SQL tables in ruby.
+An ORM inspired by the functionality of Active Record that lets users create ruby objects representing entries in SQL tables. This allows them the ability to update and create new entries for SQL tables in ruby.
 
 This project relies on the use of the 'activesupport' and 'sqlite3' ruby gems.
 
